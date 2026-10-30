@@ -1,4 +1,4 @@
- วิธีสร้าง README บน GitHub
+
 
 ขั้นตอนที่ 1: สร้าง Repository
 1. เข้าเว็บไซต์ GitHub
